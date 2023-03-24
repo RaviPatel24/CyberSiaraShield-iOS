@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/128694120/227514280-31976295-3964-4a5d
 
 
 ## Installation
-Drag and Drop CyberSiaraShield-iOS Directory into your XCode Project Directory.
+Drag and Drop SiaraShield-iOS Directory into your XCode Project Directory.
 
 ## Basic usage ✨
 
